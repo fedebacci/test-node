@@ -6,10 +6,6 @@
   "scripts": {
     "start": "node index.js",
     "test": "node index.js {'email':'federicobacci1999@gmail.com','idUtente':0}",
-
-    "testWithNumberParam": "node index.js 0",
-    "testWithStringParam": "node index.js \"Ciao sono Fede\"",
-    "testWithObjectParam": "node index.js {'email':'federicobacci1999@gmail.com','idUtente':0}",
     "watch": "node --watch index.js"
   },
   "keywords": [
